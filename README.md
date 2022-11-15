@@ -5,7 +5,7 @@
 - This project involves most of the major concepts of C programming language.
 - The project calls in various variadic functions.
 - The project was done as a team work with 2 contributors - [Victor Kalu](https://github.com/chesahkalu) and [Mayen Kalu](https://github.com/MayKay47),
- with the intention of learning more about team coloborations using Git and also enabling work flow with so many files.
+ with the intention of learning more about team colaboration using Git and also enabling work flow with so many files.
 ## Description:
 The function `_printf` uses the PROTOTYPE ```int _printf(const char *format, ...);```. 
 The format string is composed of zero or more directives. See ```man 3 printf``` for more detail. 
